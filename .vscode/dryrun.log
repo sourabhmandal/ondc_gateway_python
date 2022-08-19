@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/sourabh/Documents/bitsofmandal/ondc_gateway'
+python3 manage.py runserver
+make: Leaving directory '/home/sourabh/Documents/bitsofmandal/ondc_gateway'
+ 
